@@ -1,6 +1,6 @@
 # KyeKillerBot V8.0.0 (Rewritten) Release:
 
-# New Features
+### New Features
 
 - Music commands return! - They are better and easier to use.
 - Economy - Has been redone and is much much better!!
@@ -19,6 +19,6 @@
 - You can now edit your messages to correct a misspell command. (e.g k!hekp > k!help)
 - Premium has arrived. Please do k!premiuminfo for more details.
 
-# Improvements
+### Improvements
 
 - Everything has been reworked and Improved

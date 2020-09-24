@@ -1,3 +1,17 @@
+# KyeKillerBot V8.0.1 patch Release:
+
+### Improvements
+
+- Marry command now how a 1 minute timelimit,
+- More permission checking in commands,
+- Added empty catches to delete methods,
+- Guild check in messageDelete event
+
+### Bug Fixes
+
+- Fixed all gifs on roleplay commands, they should now not send blank embeds,
+- Minor bug fixes
+
 # KyeKillerBot V8.0.0 (Rewritten) Release:
 
 ### New Features

@@ -2,7 +2,7 @@
 
 ### Improvements
 
-- Marry command now how a 1 minute timelimit,
+- Marry command now has a 1 minute timelimit,
 - More permission checking in commands,
 - Added empty catches to delete methods,
 - Guild check in messageDelete event

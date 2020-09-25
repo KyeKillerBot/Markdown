@@ -1,4 +1,4 @@
-# KyeKillerBot V8.0.1 patch Release:
+# KyeKillerBot V8.0.1 patch Release: (24/09/2020)
 
 ### Improvements
 
@@ -12,7 +12,7 @@
 - Fixed all gifs on roleplay commands, they should now not send blank embeds,
 - Minor bug fixes
 
-# KyeKillerBot V8.0.0 (Rewritten) Release:
+# KyeKillerBot V8.0.0 (Rewritten) Release: (22/09/2020)
 
 ### New Features
 

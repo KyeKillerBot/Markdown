@@ -1,3 +1,21 @@
+# KyeKillerBot V8.0.2 patch Release: (16/10/2020)
+
+### Improvements
+
+- Improvements on the queue system
+- Added new feature on `remove` command.
+
+### Bug Fixes
+
+- Fixed hackban
+- Fixed guildMemberRemove `Cannot read property 'toLocaleDateString' of null` error.
+- Fixed starboard `Cannot read property 'partial' of null` error.
+
+### New Commands
+
+- Added emojis command.
+- Added slowed and nightcore command for premium users.
+
 # KyeKillerBot V8.0.1 patch Release: (24/09/2020)
 
 ### Improvements

@@ -9,7 +9,8 @@
 - The `levelUp` event is now disabled by default
 - New support team commands. While these are not public, these will be nice to support staff!
 - Added `embed` command. 
-- Added oldest command
+- Added `oldest` command
+- Added `hijack` command to steal emojis
 
 ### Improvements
 

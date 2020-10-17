@@ -2,6 +2,7 @@
 
 ### Fixes
 - Fixed XP System, should work correctly
+- Starboard should be entirely fixed, including the settings command for it.
 
 ### New Features
 - Added ability to toggle the leveling system
@@ -10,7 +11,7 @@
 
 ### Improvements
 
-*im going to add to this, give me a bit*
+- Starboard improvements
 
 # KyeKillerBot V8.0.2 patch Release: (16/10/2020)
 

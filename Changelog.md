@@ -9,10 +9,12 @@
 - The `levelUp` event is now disabled by default
 - New support team commands. While these are not public, these will be nice to support staff!
 - Added `embed` command. 
+- Added oldest command
 
 ### Improvements
 
 - Starboard improvements
+- Roles command edits 
 
 # KyeKillerBot V8.0.2 patch Release: (16/10/2020)
 

@@ -8,6 +8,7 @@
 - Added ability to toggle the leveling system
 - The `levelUp` event is now disabled by default
 - New support team commands. While these are not public, these will be nice to support staff!
+- Added `embed` command. 
 
 ### Improvements
 

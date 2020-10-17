@@ -1,3 +1,17 @@
+# KyeKillerBot V8.0.3 Release: (17/10/2020)
+
+### Fixes
+- Fixed XP System, should work correctly
+
+### New Features
+- Added ability to toggle the leveling system
+- The `levelUp` event is now disabled by default
+- New support team commands. While these are not public, these will be nice to support staff!
+
+### Improvements
+
+*im going to add to this, give me a bit*
+
 # KyeKillerBot V8.0.2 patch Release: (16/10/2020)
 
 ### Improvements

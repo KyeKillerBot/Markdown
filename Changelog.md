@@ -1,21 +1,37 @@
-# KyeKillerBot V8.0.3 Release: (17/10/2020)
+# KyeKillerBot V8.0.3-1 Patch: (22/10/2020)
+
+This is a small extra to the V8.0.3 patch!
 
 ### Fixes
+
+- Hopefully fix `Cannot read property 'track' of undefined` when you cancel a track selection with the play command
+- Hopefully fix `Cannot read property 'guild' of undefined`
+
+### Improvements
+
+- Show a error message when the play command is triggered with no arguments
+- Capture process errors
+
+# KyeKillerBot V8.0.3 Patch: (17/10/2020)
+
+### Fixes
+
 - Fixed XP System, should work correctly
 - Starboard should be entirely fixed, including the settings command for it.
 
 ### New Features
+
 - Added ability to toggle the leveling system
 - The `levelUp` event is now disabled by default
 - New support team commands. While these are not public, these will be nice to support staff!
-- Added `embed` command. 
+- Added `embed` command.
 - Added `oldest` command
 - Added `hijack` command to steal emojis
 
 ### Improvements
 
 - Starboard improvements
-- Roles command edits 
+- Roles command edits
 
 # KyeKillerBot V8.0.2 patch Release: (16/10/2020)
 

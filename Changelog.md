@@ -1,3 +1,33 @@
+# KyeKillerBot V8.1.0 Build: (21/11/2020)
+
+### New Features:
+
+- Added alpha servers,
+- Added editsnipe command,
+- Auto-moderation system is here! (antiSpam, antiInvites, antiSelfBots, antiTokens, antiAttachments & antiCaps),
+- Added verifercation system,
+- Added 24/7 mode for music. (Bot doesn't leave the voice channel),
+- Added dj role system,
+- Added hentai nsfw command.,
+- Added modOnly commands. (To set this do k!setroles mod <role>, following commands on the role: "say" and "slowmode". More maybe added in the future).
+
+### Bug fixes: 
+- Spelling mistakes,
+- Statboard issue,
+- guildMemberRemove issue.
+
+### Improvements:
+- Changed snipe command to util catorgory,
+- You can now report bot abusers to us with the report cmd. (k!report abuser mention reason),
+- Added meet the team to botinfo command,
+- All moderation commands reason's are optional,
+- redone the muted logging embed, 
+- Ban messages will no longer self delete.
+
+### Removed: 
+- Gah command,
+- Team command.
+
 # KyeKillerBot V8.0.3-1 Patch: (22/10/2020)
 
 This is a small extra to the V8.0.3 patch!

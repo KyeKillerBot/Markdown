@@ -1,4 +1,4 @@
-# KyeKillerBot V8.1.0 Build: (21/11/2020)
+# KyeKillerBot V8.1.0 Build: (21/11/2020) - This build has been reverted due to an on-going issue, we are working to get it back out soon.
 
 ### New Features:
 

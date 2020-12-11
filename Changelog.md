@@ -13,7 +13,7 @@
 
 ### Bug fixes: 
 - Spelling mistakes,
-- Statboard issue,
+- Starboard issue,
 - guildMemberRemove issue.
 
 ### Improvements:

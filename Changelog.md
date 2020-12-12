@@ -1,3 +1,21 @@
+# KyeKillerBot V8.1.0-1 Patch: (12/12/2020)
+
+### Side note:
+We are looking to improve on our auto-mod system. So, you feedback on it, is important to us! 
+
+### New Features:
+N/A Bug patches & improvements only.
+
+### Bug fixes: 
+- Fixed DMTickets,
+- Fixed the invite links.
+
+
+### Improvements:
+- Server Owners and anyone with "Administrator" permission can now bypass the auto-mod,
+- voteOnly commands have been enabled,
+- Activity has been updated
+
 # KyeKillerBot V8.1.0 Build: (21/11/2020)
 
 ### New Features:

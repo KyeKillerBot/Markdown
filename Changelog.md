@@ -1,3 +1,21 @@
+# KyeKillerBot V8.1.1 Patch: (06/01/2021)
+
+### Bug fixes: 
+- More permission checks to hopefully fix some errors,
+- Fixed the permission errors on reactionroles command,
+- Backend fixes.
+
+
+### Improvements:
+- Changed the partner server owner flag,
+- Current version is now on the embeds footer,
+- Commands that are under maintenance no longer get shown on the help list,
+- Changed some errors on our moderation commands,
+- Added 2 new tags to the Welcome command and Farewell command ({user.name} and {user.tag}),
+- Changed errors on redeem command for premium keys,
+- Exmaples now show the full command,
+- Added an error to the welcome/farewell test command. 
+
 # KyeKillerBot V8.1.0-1 Patch: (12/12/2020)
 
 ### Side note:

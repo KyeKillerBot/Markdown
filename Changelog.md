@@ -1,3 +1,29 @@
+# KyeKillerBot V8.2.0 Build: (14/02/2021)
+# Warn system will be released in one of the patches of this update!
+
+### New Features:
+- Added spotify support to our music commands,
+- Added massban command,
+- Added togglebeta (Opt-in and out beta mode.).
+
+### Bug fixes: 
+- Fixed a bug inside the lyrics command,
+- Fixed examples missing command names.
+
+### Improvements:
+- Multi bans has been removed from the ban command and moved to the new command "massban",
+- Removed the default footer from embed,
+- Added "In Beta" on serverinfo command.
+
+### Removed: 
+- JavaScript Comamnd,
+- Discord.js Comamnd,
+- Github Comamnd,
+- Alpha Servers System.
+
+### Known Issue's:
+- Check out our trello **[here.](https://trello.com/b/ht61iCHe/kyekillerbot-issues)** To see known issue's on the bot.
+
 # KyeKillerBot V8.1.1 Patch: (06/01/2021)
 
 ### Bug fixes: 

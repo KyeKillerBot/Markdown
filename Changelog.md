@@ -1,5 +1,5 @@
 # KyeKillerBot V8.2.0 Build: (14/02/2021)
-# Warn system will be released in one of the patches of this update!
+## Warn system will be released in one of the patches of this update!
 
 ### New Features:
 - Added spotify support to our music commands,

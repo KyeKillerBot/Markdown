@@ -22,7 +22,7 @@
 - Alpha Servers System.
 
 ### Known Issue's:
-- Check out our trello **[here](https://trello.com/b/ht61iCHe/kyekillerbot-issues)** To see known issue's on the bot.
+- Check out our trello **[here](https://trello.com/b/ht61iCHe/kyekillerbot-issues)** to see known issue's on the bot.
 
 # KyeKillerBot V8.1.1 Patch: (06/01/2021)
 

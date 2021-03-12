@@ -1,3 +1,15 @@
+# KyeKillerBot V8.2.1 Patch: (12/03/2021)
+
+### Bug fixes: 
+- Fixed a bug in verify command,
+- Fixed database connections,
+- Fixed default spelling mistake,
+- Minor bug fixes.
+
+### Known Issue's:
+- Check out our trello **[here.](https://trello.com/b/ht61iCHe/kyekillerbot-issues)** To see known issue's on the bot.
+
+
 # KyeKillerBot V8.2.0 Build: (14/02/2021)
 ## Warn system will be released in one of the patches of this update!
 

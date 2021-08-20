@@ -2,7 +2,7 @@
 
 ### New Features:
 - Warn system, Long and most wanted system is finally here!
-- Cases system! This is a new way to manage warns, kicks, mutes and bans inside your server! Check out more about it [here]().
+- Cases system! This is a new way to manage warns, kicks, mutes and bans inside your server! Check out more about it [here](https://github.com/KyeKillerBot/Markdown/blob/master/case-system.md).
 - Added nickname command
 
 

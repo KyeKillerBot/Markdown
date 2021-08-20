@@ -1,3 +1,32 @@
+# KyeKillerBot V8.3.0 Build - Revamp: (20/08/2021)
+
+### New Features:
+- Warn system, Long and most wanted system is finally here!
+- Cases system! This is a new way to manage warns, kicks, mutes and bans inside your server! Check out more about it [here]().
+- Added nickname command
+
+
+### Bug fixes:
+- We have fixed a lot around the bot it was hard to name it all!
+
+
+### Improvements:
+- Backend improvments
+- Revamped the entire bot
+- Revamped the whole moderation system
+- Serious improvements to the bot
+- Added dynamic activity types
+- Updates to autorole
+- Improved how our dm support system works
+
+
+### Removed:
+- Removed all premium services
+
+
+### Known Issue's:
+- Check out our trello **[here](https://trello.com/b/ht61iCHe/kyekillerbot-issues)**. To see known issue's on the bot.
+
 # KyeKillerBot V8.2.2 Patch: (16/03/2021)
 
 ### New Features:

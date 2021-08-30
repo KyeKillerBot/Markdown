@@ -1,3 +1,39 @@
+# KyeKillerBot V8.3.1 Patch (30/08/2021)
+
+### New Features:
+- YouTube Watch Together! You can now watch YouTube on discord with the bot!
+
+### Bug fixes:
+- Fixed enlarge not enlarging custom emojis
+- Fixed roles showing last page with no number and breaking with no value
+- Fixed userinfo breaking when an invalid user is provided
+- Fixed slowmode accepting decimals
+
+
+### Improvements:
+- Nuke command now has a confirmation message
+- Reworked purge command
+- Made changes to our cooldown system
+
+
+### Removed:
+- Reaction Role was removed for redos (If you have a rr setup it will still work).
+- Verification system has been disabled
+- Removed announce command
+- Removed aww command
+- Removed facts command
+- Removed faq command
+- Removed randomcolor command
+- Removed embed command
+- Removed currency command
+- Removed qrcode command
+- Removed wikihow command
+
+### Known Issue's:
+- Check out our trello **[here](https://trello.com/b/ht61iCHe/kyekillerbot-issues)**. To see known issue's on the bot.
+
+
+
 # KyeKillerBot V8.3.0 Build - Revamp: (20/08/2021)
 
 ### New Features:

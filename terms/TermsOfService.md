@@ -3,7 +3,7 @@
 By using KyeKillerBot you are agreeing to our Term Of service. If you do not agree please do NOT use the bot.
 
 # Introduction and accepting the terms
-Thank you for chosing KyeKillerBot, by adding the bot to your server you have agreed to out TOS ("Terms Of Service")
+Thank you for chosing KyeKillerBot, by adding the bot to your server you have agreed to our TOS ("Terms Of Service")
 
 We reserve the rights to update these terms at anytime but will let you know we are updating them.
 

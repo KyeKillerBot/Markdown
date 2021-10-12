@@ -1,3 +1,34 @@
+# KyeKillerBot V8.4.0 Build (12/10/2021)
+
+
+### New Features:
+- Play Next command!
+- Debug toggling
+- Stage Support for music!
+- Interactions have been added to the bot on some commands.
+- New help list is here!
+- All activities are here! (YouTube Together, Poker, Chess etc...)
+
+
+### Bug fixes:
+- Fixed the user required permission on mute commands
+
+
+### Improvements/Changes:
+- Rewrote the queue system
+- Imporvments on our nightcore and slowed filters
+- More backend improvements
+- Updated to Discord.js V13
+- Changed all user flags to emojis
+- Improved userinfo command
+- Added buttons to invite cmd and cleaned up the embed
+
+
+### Known Issue's:
+- Check out our trello **[here](https://trello.com/b/ht61iCHe/kyekillerbot-issues)**. To see known issue's on the bot.
+
+
+
 # KyeKillerBot V8.3.1 Patch (30/08/2021)
 
 ### New Features:
